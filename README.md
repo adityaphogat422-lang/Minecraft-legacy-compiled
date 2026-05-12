@@ -1,84 +1,50 @@
-\# Minecraft Legacy Console (Windows)
+# Minecraft Legacy Console (Windows)
+
+This repository contains a **compiled Windows build** of Minecraft Legacy Console Edition.
+
+## Modding & Contributions
+
+This repository exists to support research, preservation, and modding of the Xbox One edition of Minecraft.
+
+You are encouraged to:
+- study the code
+- create mods/patches
+- improve tooling
+- document systems
+- share research
+
+However, all original Minecraft source code and assets remain the property of Mojang Studios/Microsoft.
+
+Only original contributions made to this repository by contributors may be considered open-source.
 
 
+⚠️ The **original source code is not included here**.
 
-This program is the compiled version of \*\*Minecraft Legacy Console Edition\*\* for Windows.
+## Source Code
 
+The original source code for this project is archived on **archive.org**.
 
+This repository only provides a **compiled build for Windows** so users can easily run the program without compiling it themselves.
 
-\## How to Use
+## How to Use
 
-
-
-1\. Download the whole repository as a \*\*.zip\*\*.
-
-2\. Extract the zip file.
-
-3\. Navigate to:
-
-
-
-```
-
-x64/release/
-
-```
-
-
-
-4\. Run:
-
-
-
-```
-
-Minecraft.client.exe
+1. Download the repository as a **.zip**.
+2. Extract the files.
+3. Run:
 
 ```
+Minecraft.Client.exe
+```
 
+## Controls
 
+Use an **X-Input compatible controller** (Xbox controller recommended).
 
-⚠️ Do not remove any files or folders. The executable requires the full folder structure to run correctly.
+## Notes
 
-
-
-\## Controls
-
-
-
-Use an \*\*X-Input controller\*\* (Xbox compatible controller) to play.
-
-
-
-\## Minimum Requirements
-
-
-
-Hardware roughly equivalent to an Xbox One.
-
-
-
-\* \*\*CPU:\*\* Quad-core processor (~1.75 GHz or better)
-
-\* \*\*RAM:\*\* 8 GB
-
-\* \*\*GPU:\*\* DirectX 11 compatible graphics card
-
-\* \*\*Storage:\*\* At least 2 GB free space
-
-\* \*\*Operating System:\*\* Windows 10 or newer
-
-\* \*\*Controller:\*\* X-Input compatible controller
-
-
-
-\## Notes
-
-
-
-\* Keep the original folder structure.
-
-\* Make sure all required files are present before running the executable.
-
-
+* Keep the full folder structure intact.
+* Do not remove any files or folders required by the executable.
+* This repository only provides a compiled Windows build so users can run the program without compiling it themselves.
+* Publicly archived source materials may exist elsewhere online, but are not distributed in this repository.
+* Minecraft and all related assets/source code belong to Mojang Studios/Microsoft.
 
